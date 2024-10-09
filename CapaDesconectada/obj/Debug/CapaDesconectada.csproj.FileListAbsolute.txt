@@ -21,3 +21,16 @@ D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 2\Guia
 D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 2\Guias-PG02\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.CopyComplete
 D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 2\Guias-PG02\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.exe
 D:\Usuarios\Alondra\Documents\UNAB\CICLO IV - 2024 - UNAB\sPG2-20\Periodo 2\Guias-PG02\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.pdb
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\bin\Debug\CapaDesconectada.exe.config
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\bin\Debug\CapaDesconectada.exe
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\bin\Debug\CapaDesconectada.pdb
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\bin\Debug\AccesoDatos.dll
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\bin\Debug\AccesoDatos.pdb
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.AssemblyReference.cache
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\obj\Debug\CapaDesconectada.Form1.resources
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\obj\Debug\CapaDesconectada.Properties.Resources.resources
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.GenerateResource.cache
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.CoreCompileInputs.cache
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\obj\Debug\CapaDesc.ABCBD388.Up2Date
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\obj\Debug\CapaDesconectada.exe
+C:\Users\diego\Source\Repos\GUIAS_ADO.NET-Prograll\CapaDesconectada\obj\Debug\CapaDesconectada.pdb

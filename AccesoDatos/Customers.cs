@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AccesoDatos
 {
-    public class Customers
+    public class Customers //Aqui estan los atributos
     {
         public string CustomerID { get; set; }
         public string CompanyName { get; set; }

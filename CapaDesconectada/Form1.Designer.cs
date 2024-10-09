@@ -218,35 +218,35 @@
             // 
             // tboxCustomerID
             // 
-            this.tboxCustomerID.Location = new System.Drawing.Point(878, 54);
+            this.tboxCustomerID.Location = new System.Drawing.Point(884, 102);
             this.tboxCustomerID.Name = "tboxCustomerID";
             this.tboxCustomerID.Size = new System.Drawing.Size(154, 20);
             this.tboxCustomerID.TabIndex = 7;
             // 
             // tboxCompanyName
             // 
-            this.tboxCompanyName.Location = new System.Drawing.Point(878, 94);
+            this.tboxCompanyName.Location = new System.Drawing.Point(884, 142);
             this.tboxCompanyName.Name = "tboxCompanyName";
             this.tboxCompanyName.Size = new System.Drawing.Size(154, 20);
             this.tboxCompanyName.TabIndex = 8;
             // 
             // tboxContactName
             // 
-            this.tboxContactName.Location = new System.Drawing.Point(878, 133);
+            this.tboxContactName.Location = new System.Drawing.Point(884, 181);
             this.tboxContactName.Name = "tboxContactName";
             this.tboxContactName.Size = new System.Drawing.Size(154, 20);
             this.tboxContactName.TabIndex = 9;
             // 
             // tboxContactTitle
             // 
-            this.tboxContactTitle.Location = new System.Drawing.Point(878, 172);
+            this.tboxContactTitle.Location = new System.Drawing.Point(884, 220);
             this.tboxContactTitle.Name = "tboxContactTitle";
             this.tboxContactTitle.Size = new System.Drawing.Size(154, 20);
             this.tboxContactTitle.TabIndex = 10;
             // 
             // tboxAddress
             // 
-            this.tboxAddress.Location = new System.Drawing.Point(878, 212);
+            this.tboxAddress.Location = new System.Drawing.Point(884, 260);
             this.tboxAddress.Name = "tboxAddress";
             this.tboxAddress.Size = new System.Drawing.Size(154, 20);
             this.tboxAddress.TabIndex = 11;
@@ -254,7 +254,7 @@
             // btnInsertarCliente
             // 
             this.btnInsertarCliente.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.btnInsertarCliente.Location = new System.Drawing.Point(823, 265);
+            this.btnInsertarCliente.Location = new System.Drawing.Point(829, 313);
             this.btnInsertarCliente.Name = "btnInsertarCliente";
             this.btnInsertarCliente.Size = new System.Drawing.Size(163, 23);
             this.btnInsertarCliente.TabIndex = 8;
@@ -265,7 +265,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(804, 57);
+            this.label3.Location = new System.Drawing.Point(810, 105);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(68, 13);
             this.label3.TabIndex = 8;
@@ -274,7 +274,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(787, 97);
+            this.label4.Location = new System.Drawing.Point(793, 145);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(85, 13);
             this.label4.TabIndex = 12;
@@ -283,7 +283,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(794, 136);
+            this.label5.Location = new System.Drawing.Point(800, 184);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(78, 13);
             this.label5.TabIndex = 13;
@@ -292,7 +292,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(802, 175);
+            this.label6.Location = new System.Drawing.Point(808, 223);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(70, 13);
             this.label6.TabIndex = 14;
@@ -301,7 +301,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(820, 215);
+            this.label7.Location = new System.Drawing.Point(826, 263);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(48, 13);
             this.label7.TabIndex = 15;
